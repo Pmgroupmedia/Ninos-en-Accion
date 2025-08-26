@@ -1,0 +1,39 @@
+Objetivo: Diseñar un website interactivo para una institución educativa maternal y preescolar llamada EcoEscuela Niños en Acción, ubicada en Trujillo Alto, Puerto Rico.
+Propósito del sitio: Presentar su oferta educativa, promover matrícula, aumentar su visibilidad en redes sociales y conectar con padres interesados en una educación ecológica.
+
+Instrucciones Detalladas:
+	1.	Estructura del sitio:
+	•	Página Principal: Presentación institucional con foto destacada y el slogan: “Educando a los niños a amar el planeta Tierra”.
+	•	¿Quiénes Somos?: Breve descripción de la escuela, misión, visión y más de 20 años de trayectoria.
+	•	Oferta Educativa: Detallar los programas ofrecidos, incluyendo matrícula abierta todo el año, edades (2 a 4 años), programa federal disponible, y educación ecológica.
+	•	Nuestro Enfoque: Explicar su metodología basada en valores ambientales con temas como reciclaje, calentamiento global, agricultura ecológica, etc.
+	•	Galería: Imágenes de las actividades, salones y proyectos ecológicos.
+	•	Redes Sociales y Blog: Espacio para actualizaciones, tips ecológicos y enlaces a Instagram.
+	•	Formulario de Contacto: Datos para llamadas, emails, y localización con mapa interactivo.
+	•	Botón de WhatsApp o Messenger para consultas directas.
+	2.	Diseño visual:
+	•	Estilo elegante, estructurado y cálido.
+	•	Colores principales: Verde, beige, tonos tierra y colores suaves relacionados con la naturaleza.
+	•	Tipografía amigable y profesional, adecuada para padres jóvenes.
+	•	Elementos gráficos como hojas, flores, árboles, niños jugando, ilustraciones ecológicas.
+	3.	Funcionalidades Interactivas:
+	•	Calendario escolar interactivo.
+	•	Área de “Preguntas Frecuentes”.
+	•	Chatbot o asistente virtual para consultas rápidas.
+	•	Suscripción a boletín digital.
+	•	Botones de compartir en redes sociales.
+	•	Módulo de testimonios de padres.
+	4.	SEO & Redes Sociales:
+	•	Optimización para buscadores (SEO) con palabras clave como “escuela ecológica Puerto Rico”, “preescolar Trujillo Alto”, “educación ambiental para niños”.
+	•	Integración con Instagram: @ecoescuelaninosenaccion.
+	•	Enlaces visibles a redes sociales para aumentar seguidores.
+	5.	Datos de Contacto (en pie de página y página de contacto):
+	•	Teléfonos: (787) 647-8147 / (787) 292-0642
+	•	Correo electrónico: centroninosenaccion@gmail.com
+	•	Dirección: Ave. Marginal Aniceto Díaz, B-10 Golden Hills, Trujillo Alto, PR 00976
+	•	Web: ecoescuelaninosenaccion.com
+	6.	Compatibilidad:
+	•	Diseño adaptable (responsive) para móviles, tabletas y computadoras.
+	•	Carga rápida y optimizada.
+
+Tono general del sitio: Profesional, confiable, familiar y ecológico, con un mensaje positivo, educativo y de compromiso ambiental.

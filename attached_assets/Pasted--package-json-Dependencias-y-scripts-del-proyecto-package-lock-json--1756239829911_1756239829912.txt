@@ -1,0 +1,52 @@
+│
+├── package.json                 # Dependencias y scripts del proyecto
+├── package-lock.json           # Lock file de dependencias
+├── replit.md                   # Documentación del proyecto
+├── vite.config.ts              # Configuración de Vite
+├── tailwind.config.ts          # Configuración de TailwindCSS
+├── tsconfig.json               # Configuración de TypeScript
+├── postcss.config.js           # Configuración de PostCSS
+├── drizzle.config.ts           # Configuración de la base de datos
+├── components.json             # Configuración de shadcn/ui
+│
+├── client/                     # Frontend React
+│   ├── index.html              # HTML principal
+│   └── src/
+│       ├── index.css           # Estilos globales y personalizados
+│       ├── App.tsx             # Componente principal de la app
+│       ├── main.tsx            # Punto de entrada de React
+│       ├── pages/
+│       │   └── home.tsx        # Página principal con todas las secciones
+│       ├── components/
+│       │   ├── ui/             # Componentes de shadcn/ui
+│       │   ├── Header.tsx      # Componente de navegación
+│       │   ├── Hero.tsx        # Sección héroe
+│       │   ├── Services.tsx    # Sección de servicios
+│       │   ├── Gallery.tsx     # Galería de imágenes
+│       │   ├── Location.tsx    # Información de ubicación
+│       │   ├── Contact.tsx     # Formulario de contacto
+│       │   ├── Footer.tsx      # Pie de página
+│       │   └── WhatsAppFloat.tsx # Botón flotante de WhatsApp
+│       ├── hooks/
+│       │   ├── use-mobile.tsx  # Hook para detectar móviles
+│       │   └── use-toast.tsx   # Hook para notificaciones
+│       └── lib/
+│           ├── utils.ts        # Utilidades de Tailwind
+│           └── queryClient.ts  # Configuración de TanStack Query
+│
+├── server/                     # Backend Express
+│   ├── index.ts               # Servidor principal
+│   ├── routes.ts              # Rutas de la API
+│   ├── storage.ts             # Interface de almacenamiento
+│   └── vite.ts                # Integración Vite-Express
+│
+├── shared/                     # Código compartido
+│   └── schema.ts              # Esquemas de base de datos y validación
+│
+├── attached_assets/           # Imágenes y assets subidos
+│   ├── WhatsApp Image 2025-07-10 at 01.32.18_2cdad6d4_1752125574451.jpg  # Logo
+│   └── WhatsApp Image 2025-07-10 at 01.45.56_5aa65486_1752126389967.jpg  # Billboard móvil
+│
+└── dist/                      # Archivos compilados (generados automáticamente)
+    ├── index.js               # Servidor compilado
+    └── public/                # Frontend compilado
